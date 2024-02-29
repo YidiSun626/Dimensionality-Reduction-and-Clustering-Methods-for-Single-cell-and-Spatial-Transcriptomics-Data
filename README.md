@@ -19,3 +19,6 @@ Dimensionality Reduction and Clustering Methods for Single-cell and Spatial Tran
     - [MulitiMAP](#spotlight)
     - [DREAM](#spotlight)
   - [Spatial Transcriptomics](#deconvolution)
+    - [Seurat](#spotlight)
+    - [SCANPY](#spotlight)
+    - [SpatialPCA](#spotlight)
