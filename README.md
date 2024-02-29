@@ -49,3 +49,5 @@ Dimensionality Reduction and Clustering Methods for Single-cell and Spatial Tran
 ## Dimensionality Reduction Methods
 
 ### Single Cell Transcriptomics
+
+- [SPOTLight](https://github.com/MarcElosua/SPOTlight_deconvolution_analysis) - Performs well even with small cell datasets
