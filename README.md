@@ -59,3 +59,37 @@ Dimensionality Reduction and Clustering Methods for Single-cell and Spatial Tran
 - [SCDRHA](https://github.com/WHY-17/SCDRHA) - The composite structure is capable of simultaneously avoiding dropout events and preserving cellular topological structure
 - [MulitiMAP](https://github.com/Teichlab/MultiMAP) - Able to integrate and analyze data of different quantities and dimensions
 - [DREAM](https://github.com/Crystal-JJ/DREAM) - Strong stability in dimensionality reduction and suitable for pseudo-temporal analysis
+
+### Spatial Transcriptomics
+
+- [Seurat](https://github.com/satijalab/seurat) - Applicable to different types of single-cell transcriptomic data
+- [SCANPY](https://github.com/scverse/scanpy) - Suitable for handling large-scale single-cell data
+- [SpatialPCA](https://github.com/shangll123/SpatialPCA) - Able to preserve crucial biological signals and spatial structures while reducing dimensionality
+
+## Clustering Methods
+
+### Single Cell Transcriptomics
+
+- []() -
+- []() -
+- []() -
+- []() -
+- []() -
+- []() -
+- []() -
+- []() -
+- []() -
+- []() -
+- []() -
+
+### Spatial Transcriptomics
+
+- []() -
+- []() -
+- []() -
+- []() -
+- []() -
+- []() -
+- []() -
+- []() -
+- []() - 
