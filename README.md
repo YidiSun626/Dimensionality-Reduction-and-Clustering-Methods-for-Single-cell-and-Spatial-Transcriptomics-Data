@@ -7,4 +7,4 @@ Dimensionality Reduction and Clustering Methods for Single-cell and Spatial Tran
 
 - [Citation](#citation)
 - [Contents](#contents)
-- [Dimensionality Reduction Methods](#dimensionality reduction methods)
+- [Dimensionality Reduction Methods](#tools)
