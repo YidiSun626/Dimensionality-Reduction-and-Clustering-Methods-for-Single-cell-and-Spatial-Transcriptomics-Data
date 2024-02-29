@@ -51,4 +51,11 @@ Dimensionality Reduction and Clustering Methods for Single-cell and Spatial Tran
 ### Single Cell Transcriptomics
 
 - [PCA](https://github.com/erdogant/pca) - Simplified with significant dimensionality reduction effects
-- 
+- [NMF](https://github.com/renozao/NMF) - Utilizing non-negative decomposition is more applicable to biological data
+- [scvis](https://github.com/erdogant/pca) - Simplified with significant dimensionality reduction effects
+- [UMAP](https://github.com/erdogant/pca) - Simplified with significant dimensionality reduction effects
+- [tGPLVM](https://github.com/architverma1/tGPLVM) - Can be used for raw, unfiltered data
+- [DR-A](https://github.com/eugenelin1/DRA) - Utilizing deep learning models to enhance dimensionality reduction performance
+- [SCDRHA](https://github.com/WHY-17/SCDRHA) - The composite structure is capable of simultaneously avoiding dropout events and preserving cellular topological structure
+- [MulitiMAP](https://github.com/Teichlab/MultiMAP) - Able to integrate and analyze data of different quantities and dimensions
+- [DREAM](https://github.com/Crystal-JJ/DREAM) - Strong stability in dimensionality reduction and suitable for pseudo-temporal analysis
