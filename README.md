@@ -22,3 +22,4 @@ Dimensionality Reduction and Clustering Methods for Single-cell and Spatial Tran
     - [Seurat](#spotlight)
     - [SCANPY](#spotlight)
     - [SpatialPCA](#spotlight)
+- [Clustering Methods](#tools)
