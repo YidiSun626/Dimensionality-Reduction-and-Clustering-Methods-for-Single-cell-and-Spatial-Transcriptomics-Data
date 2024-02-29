@@ -18,3 +18,4 @@ Dimensionality Reduction and Clustering Methods for Single-cell and Spatial Tran
     - [SCDRHA](#spotlight)
     - [MulitiMAP](#spotlight)
     - [DREAM](#spotlight)
+  - [Spatial Transcriptomics](#deconvolution)
