@@ -70,17 +70,17 @@ Dimensionality Reduction and Clustering Methods for Single-cell and Spatial Tran
 
 ### Single Cell Transcriptomics
 
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
+- [CellBIC](https://github.com/neocaleb/CellBIC) - Top-down hierarchical
+- [HMRF](https://bitbucket.org/qzhudfci/smfishhmrf-py) - Identifies varied spatial domain patterns
+- [SAME-clustering](https://github.com/yycunc/SAMEclustering) - Proficient in estimating the number of clusters
+- [SPRESSO](https://github.com/tmorikuicr/spresso) - Based on gene expression data (may lack spatial information)
+- [Metacell](https://tanaylab.github.io/metacell/) - Can enhance the reliability of data by improving the signal-to-noise ratio
+- [Leiden](https://github.com/vtraag/leidenalg) - Suitable for larger-scale single-cell data
+- [stLearn](https://stlearn.readthedocs.io/) - Can collaboratively integrate gene expression, spatial distance, and tissue morphology data
+- [jSRC](https://github.com/xkmaxidian/jSRC) - Integrated dimensionality reduction and clustering
+- [Metacell2](https://github.com/tanaylab/metacells) - Achieves higher accuracy in identifying rare cell types
+- [scHFC](https://github.com/WJ319/scHFC) - High clustering stability
+- [eSPRESSO](https://github.com/tmorikuicr/espresso) - Three-dimensional reconstruction
 
 ### Spatial Transcriptomics
 
