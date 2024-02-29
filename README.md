@@ -45,3 +45,7 @@ Dimensionality Reduction and Clustering Methods for Single-cell and Spatial Tran
     - [DR-SC](#spotlight)
     - [GraphST](#spotlight)
     - [ADEPT](#spotlight)
+   
+## Dimensionality Reduction Methods
+
+### Single Cell Transcriptomics
