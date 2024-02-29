@@ -84,12 +84,12 @@ Dimensionality Reduction and Clustering Methods for Single-cell and Spatial Tran
 
 ### Spatial Transcriptomics
 
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() - 
+- [spatialDE](https://github.com/PMBio/SpatialDE) - A tool specialized in delineating tissue regions in spatial transcriptomics data
+- [spaGCN](https://github.com/jianhuupenn/SpaGCN) - Heightened sensitivity in the detection of genes exhibiting enriched spatial expression patterns
+- [BayesSpace](https://github.com/edward130603/BayesSpace) - Capable of improving estimation accuracy without sacrificing clustering performance
+- [Banksy](https://github.com/prabhakarlab/Banksy_py) - Eliminates the assumption that cells of the same type or subtype must be physically close to each other
+- [STAGATE](https://github.com/zhanglabtools/STAGATE) - Adding an attention mechanism to the graph autoencoder enables adaptive learning
+- [Stardust](https://github.com/InfOmics/stardust/) - More user-friendly
+- [DR-SC](https://github.com/feiyoung/DR-SC.Analysis) - Can perform clustering on data lacking spatial information
+- [GraphST](https://github.com/JinmiaoChenLab/GraphST) - Able to preserve local spatial information through graph self-supervised contrastive learning
+- [ADEPT](https://github.com/maiziezhoulab/ADEPT) - Well-connected with downstream analyses
